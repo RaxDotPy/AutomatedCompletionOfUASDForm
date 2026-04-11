@@ -10,6 +10,8 @@ Pasos para ejecutar el script:
 6. Presionar "Enter" en el teclado.
 
 ¿Qué hace el código?
-Completa las primeras 28-29 preguntas de "Evaluación Docente de la UASD"
+Completa las primeras 30 preguntas de "Evaluación Docente de la UASD", suponiendo que las primeras preguntas sólo tienen "Siempre o Muy Bueno".
+
+Si alguien considera que este código está mal hecho, puede hacer un commit sin ningún problema.
 
 Fin.
