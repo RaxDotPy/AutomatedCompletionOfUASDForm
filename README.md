@@ -12,6 +12,6 @@ Pasos para ejecutar el script:
 ¿Qué hace el código?
 Completa las primeras 30 preguntas de "Evaluación Docente de la UASD", suponiendo que las primeras preguntas sólo tienen "Siempre o Muy Bueno".
 
-Si alguien considera que este código está mal hecho, puede hacer un commit sin ningún problema.
+Si alguien considera que este código está mal hecho, puede hacer un pull request sin ningun problema.
 
 Fin.
